@@ -16,6 +16,11 @@ public class TableViewPage {
 
     BasePage basePage = new BasePage();
 
+    ///git committ
+
+    public void getsSomething(){
+
+    }
 
     public String getDealNameFromTable() {
 
